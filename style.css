@@ -6,6 +6,9 @@ body {
   background-color: whitesmoke;
 }
 a {
-  color: red;
+  color: darkblue;
   text-decoration: none;
+}
+div > a {
+  color: lightsteelblue;
 }
