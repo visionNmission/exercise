@@ -8,6 +8,12 @@ body {
 h1 > a {
   color: black;
 }
+.head > li > a {
+  color: gray;
+}
+.engines > ul > li > a {
+  color: darkblue;
+}
 a {
   text-decoration: none;
 }
