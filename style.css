@@ -5,13 +5,9 @@
 body {
   background-color: whitesmoke;
 }
-a {
-  color: darkblue;
-  text-decoration: none;
-}
-div > a {
-  color: lightsteelblue;
-}
-h1 {
+h1 > a {
   color: black;
+}
+a {
+  text-decoration: none;
 }
