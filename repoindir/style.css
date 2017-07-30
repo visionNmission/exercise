@@ -4,9 +4,25 @@
   box-sizing: border-box;
   background-color: linen;
 }
-a[href^="http"] {
+a {
   list-style: none;
   text-decoration: none;
-  color: lightslategray;
+  color: darkred;
+  font-size: 20px;
+}
+.ball, tr, th, td {
+  border: 1px solid black;
+  text-align: center;
+  width: 1500px;
+  height: 40px;
+}
+h1 {
+  font-size: 40px;
+}
+p {
   font-size: 30px;
+}
+input[type="button"] {
+  width: 50px;
+  color: black;
 }
